@@ -1,1 +1,2 @@
+Brief Introduction- This will be a project involving what I've learned about HTML thus far. It will test the skills I have with using the HTML basics and applying them to the terminal, VScode, and github. 
 # odin-recipes
